@@ -1,7 +1,7 @@
 - 👋 Hi, I’m praveendass
 - 👀 I’m interested in web developement,application dev
 - 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate on ....
+- 
 - 📫  reach me @praveendassking@gmail.com
 
 <!---
