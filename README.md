@@ -1,7 +1,7 @@
 - 👋 Hi, I’m praveendass
 - 👀 I’m interested in web developement,application dev
 - 🌱 I’m currently learning webdevelopment
--  <Wakeup,coffee,code,sleep,Repeat/>
+-  <Wakeup,coffee,code,sleep,Repeat uh/>
 - 📫  reach me @praveendassking@gmail.com
 
 <!---
